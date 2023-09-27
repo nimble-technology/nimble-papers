@@ -1,2 +1,4 @@
-# Nimble Protocol Whitepaper
-The whitepaper discusses the vision and key protocol components.
+# Nimble Protocol Papers
+- whitepaper
+- litepaper
+- research papers
