@@ -1,4 +1,3 @@
-# Nimble Protocol Papers
-- whitepaper
-- litepaper
-- research papers
+# Nimble Whitepaper
+
+This repo hosts the whitepaper for the Nimble network.
